@@ -623,7 +623,7 @@ ul li {
   .bike__link{
     padding: 15px;
     letter-spacing: 10px;
-    margin: 20px 100px 0;
+    margin: 20px 75px 0;
   }
 }
 @media (max-width: 350px) {
