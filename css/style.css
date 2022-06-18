@@ -596,7 +596,7 @@ ul li {
   }
   .bike__link {
     padding: 15px;
-    letter-spacing: 0.9em;
+    letter-spacing: 10px;
   }
   .slider {
     display: none;
@@ -619,11 +619,6 @@ ul li {
   }
   .form__label-box {
     justify-content: center;
-  }
-  .bike__link{
-    padding: 15px;
-    letter-spacing: 10px;
-    margin: 20px 75px 0;
   }
 }
 @media (max-width: 350px) {
